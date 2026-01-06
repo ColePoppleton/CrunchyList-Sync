@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+config.json
+crunchyroll_history.json
+.env
